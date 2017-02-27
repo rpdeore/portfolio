@@ -5,6 +5,11 @@
 	font-family: 'Montserrat', sans-serif;
     font-weight: 300;
 }
+.tabs{
+  font-size:20px;
+  color:white;
+
+}
 .toppart
 {
 	background-color: #474747;
@@ -33,6 +38,10 @@
     padding-bottom: 30px;
     width:50%;
     border-radius: 25px;
+}
+.navbar-right
+{
+  marginright:10px;
 }
 .about{
 	height:800px;
