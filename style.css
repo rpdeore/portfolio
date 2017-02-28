@@ -1,7 +1,7 @@
  body 
 {
 	height:100%;
-	background-color: white;
+	background-color: black;
 	font-family: 'Montserrat', sans-serif;
     font-weight: 300;
 }
@@ -41,13 +41,19 @@
 }
 .navbar-right
 {
-  marginright:10px;
+  margin-right:10px;
 }
 .about{
 	height:800px;
 	background-color: white;
     margin-top: 10%;
     margin-bottom:10%;
+}
+#contact
+{
+  height:600px;
+  background-color: #fdd04b;
+  padding-top: 10%;
 }
 .tabs:hover
 {
@@ -356,3 +362,11 @@
 .spinner--right [data-type="carousel-3"] .content__left { background-image: none; }
 
 
+.socialMedia{
+  text-align: center;
+  color:#337ab7;
+}
+.fa-github-square,.fa-linkedin
+{
+   color:#337ab7;
+}
