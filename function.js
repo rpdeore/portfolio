@@ -1,4 +1,4 @@
-	                                                                'use strict';
+	                                                                
 									var activeIndex = 0;
 									var limit = 0;
 									var disabled = false;
