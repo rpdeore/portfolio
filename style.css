@@ -49,6 +49,11 @@
     margin-top: 10%;
     margin-bottom:10%;
 }
+.tabs:hover
+{
+  color:red;
+  background-color: red;
+}
 .projects{
 	height:800px;
 	background: url("img/unsplash2.jpg");
